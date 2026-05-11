@@ -22,3 +22,7 @@ This project presents a comprehensive global marketing strategy for **Chukjeok C
 - **STP Analysis**: Detailed Segmentation, Targeting, and Positioning for the East Asian market.
 - **SWOT Analysis**: Identifying competitive advantages in the saturated Korean RTD market.
 - **Competitor Benchmarking**: Analysis against established local and international players.
+
+## Link to Google Drive 
+Link: https://drive.google.com/drive/folders/1SFmt6VubrKTEpcdrJU8dmYsurMPFWw4m 
+
